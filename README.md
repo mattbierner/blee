@@ -1,6 +1,6 @@
 # Blee
 
-Comprehensive mapping of color names to hex values.
+Comprehensive mapping of color names to RGB values.
 
 **Includes**
 * `crayola1903` - Crayola 1903 colors.
@@ -10,7 +10,7 @@ Comprehensive mapping of color names to hex values.
 * `crayola96` - Crayola No. 96 colors.
 * `crayolaFluorescent` - Crayola fluorescent colors.
 * `crayolaModern` - Modern Crayola colors.
-* `crayola` - Super set of all Crayola colors.
+* `crayola` - Superset of all Crayola colors.
 * `css` - HTML5 / CSS3 colors.
 * `html` - HTML4 colors.
 * `munsellCrayola` - Munsell Crayola colors.

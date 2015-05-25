@@ -1,7 +1,7 @@
 {
     "name": "blee",
     "version": "0.0.0",
-    "description": "Comprehensive color name mappings",
+    "description": "Comprehensive color name to RGB mappings",
     "author": "Matt Bierner",
     "license": "MIT",
     "repository": {
@@ -11,6 +11,7 @@
     "keywords": [
         "color",
         "color names",
+        "rgb",
         "css colors",
         "hex",
         "hex colors",
