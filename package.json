@@ -1,0 +1,44 @@
+{
+    "name": "blee",
+    "version": "0.0.0",
+    "description": "Comprehensive color name mappings",
+    "author": "Matt Bierner",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mattbierner/blee.git"
+    },
+    "keywords": [
+        "color",
+        "color names",
+        "css colors",
+        "hex",
+        "hex colors",
+        "html colors",
+        "x11 colors",
+        "crayola"],
+
+    "main": "index.js",
+    "directories": {
+        "lib": "lib/"
+    },
+    "files": [
+        "lib/",
+        "tests/",
+        "index.js",
+        "test.js"
+    ],
+    "dependencies": {},
+     
+    "devDependencies": {
+        "nodeunit": "0.8.x"
+    },
+    "files": [
+        "lib/",
+        "index.js"
+    ],
+    
+    "scripts": {
+        "test": "node test.js"
+    }
+}
