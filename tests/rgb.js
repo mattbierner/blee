@@ -8,3 +8,11 @@ exports.rgb = function(test) {
 
     test.done();
 };
+
+
+exports.rgba = function(test) {
+    test.equal('#FF0000', rgb.get('rgba(255, 0, 0, 0)'));
+    test.equal('#FF0000', rgb.get('rgba(255,0,0, 0.2)'));
+
+    test.done();
+};
