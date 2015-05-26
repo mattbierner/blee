@@ -1,7 +1,7 @@
 {
     "name": "blee",
     "version": "0.0.0",
-    "description": "Comprehensive color name to RGB mappings",
+    "description": "Comprehensive mapping of color names to RGB values",
     "author": "Matt Bierner",
     "license": "MIT",
     "repository": {
@@ -17,7 +17,9 @@
         "hex colors",
         "html colors",
         "x11 colors",
-        "crayola"],
+        "crayola",
+        "pantone",
+        "color temperature"],
 
     "main": "index.js",
     "directories": {
