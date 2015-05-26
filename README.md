@@ -28,7 +28,7 @@ Comprehensive mapping of color strings to RGB values.
 $ npm install blee
 ```
 
-**Lookup*
+**Lookup**
 ```
 var crayola = require('blee').crayola;
 
@@ -51,7 +51,7 @@ combined.get("#ff0000") === { r: 255, g: 0, b: 0 };
 combined.get("rgb(255, 0, 0)") === { r: 255, g: 0, b: 0 };
 ```
 
-** Combining Color Sets
+**Combining Color Sets**
 ```
 var crayola = require('blee').crayola;
 var css = require('blee').css;
